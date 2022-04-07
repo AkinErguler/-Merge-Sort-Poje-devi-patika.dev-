@@ -1,4 +1,4 @@
-## Veri Yapıları ve Algoritmalar PROJE 2 (Merge Sort Projesi)
+## Veri Yapıları ve Algoritmalar PROJE 2 (Merge Sort Projesi) (www.patika.dev)
 
 
 
